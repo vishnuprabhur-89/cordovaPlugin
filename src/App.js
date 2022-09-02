@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Cordova plugin app
+          Cordova plugin app..
         </p>
         <a
           className="App-link"
